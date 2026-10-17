@@ -19,7 +19,6 @@ Tenho interesse em desenvolvimento web full-stack, arquitetura de software e int
 - **Front-end:** React, Next.js, Vite e Tailwind CSS
 - **Back-end:** Spring Boot, FastAPI e APIs REST
 - **Banco de dados:** PostgreSQL e SQLite
-- **IA aplicada:** LLMs, RAG e processamento de documentos PDF
 - **Testes e qualidade:** Vitest, Playwright e validação de acessibilidade
 
 <p align="center">
