@@ -43,7 +43,6 @@ Plataforma de gestão para academias, estúdios e personal trainers. O sistema r
 
 Sistema de agendamento para barbearias, com área de usuário e painel administrativo para acompanhar horários e organizar compromissos em um só lugar.
 
-**Acessar aplicação:** [agendamentos-inky.vercel.app](https://agendamentos-inky.vercel.app/)
 
 ## Experiência com e-commerce
 
